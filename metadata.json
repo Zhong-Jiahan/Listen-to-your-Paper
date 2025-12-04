@@ -1,0 +1,5 @@
+{
+  "name": "PaperCast AI",
+  "description": "Transform complex academic literature into engaging, podcast-style audio summaries using Gemini AI.",
+  "requestFramePermissions": []
+}
